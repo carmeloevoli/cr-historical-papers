@@ -36,6 +36,12 @@
 
 ----
 
+### 1952, Propagation of the Cosmic Radia- tion through Intersteller Space
+
+Author(s): **Satio Hayakawa**
+
+----
+
 ### 1961, Primary cosmic radiation and extensive air showers
 
 * Author(s): **Bernard Peters**
